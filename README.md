@@ -1,6 +1,6 @@
-# PCB3109-Cancer-Biology
+# Practical Molecular Dynamics
 
-## Class project assignments for Cancer Biology
+## Class project assignments for Practical Molecular Dynamics
 
 The following is a brief description of each assignment.
 
